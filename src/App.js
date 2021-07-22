@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {BrowserRouter,Switch,Route} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './Home';
+import Home  from './pages/home';
 
 class App extends Component {
   render() {

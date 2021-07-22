@@ -1,0 +1,201 @@
+.col{
+    color: white;
+    font-size: 38px;
+    margin-left: 20px;
+  }
+  .col2{
+    font-size: 18px;
+    margin-left: 20px;
+    color: white !important;
+  }
+  .ad{
+    background-color: #00348d;
+  }
+  .aligning{
+    padding: 0.5rem 2rem !important;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+  }
+  
+  h4{
+    text-align: center;
+  }
+  
+  .vl {
+    border-left: 1px solid rgb(227, 230, 227);
+    height: 200px;
+    margin-top: 40px;
+  }
+  .arrow{
+    background-image: url("../../assets/images/uparrow.webp") ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;
+  }
+  .align{
+    color: red;
+    margin: 0 25px;
+    font-size: 25px;
+  }
+  .footer-bg-color{
+    background-color: #00348d;
+    width: 100%;
+  }
+  .footer-list-color{
+    color: white;
+    margin-left: 30px;
+  }
+  .footer-list-color2{
+    color: white;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  .align1{
+    color: red;
+    margin:35px 25px 0;
+    font-size: 25px;
+  }
+  .footer-icon{
+    margin-top: 67px;
+    color: white;
+  }
+  .footer-icon-color{
+    color: white;
+  }
+  .footer-colom-align{
+    margin-left: 0px;
+  }
+  .footer-hr{
+    color: white;
+    margin-top: 70px;
+    border: 1px solid rgb(245, 245, 245);
+  }
+  .footer-copyright{
+    color: white;
+    text-align: center;
+  }
+  .button-pre{
+    border-radius: 50px;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-left: 600px;
+    border-color: red;
+    background-color: blue;
+    color: white;
+  }
+  .button-nex{
+    border-radius: 50px;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-left: 30px;
+    border: none;
+    background-color: rgb(87, 87, 94);
+    color: white;
+  }
+  .bottom-hr{
+    border-bottom:2px solid rgb(63, 62, 62); 
+    text-align: center;
+    width: 1250px;
+    margin-left: 50px;
+  }
+  h2{
+    text-align: center;
+  }
+  .categories-font{
+    font-size: 25px;
+  }
+  .header-bgcolor{
+    background-color: #00348d;
+    width: 100%;
+  }
+  .colo{
+    margin-left: 400px;
+    color: white;
+  }
+  .header-logo{
+    width: 180px;
+    height: 50px;
+  }
+  .header-icon{
+    margin-left: 80px;
+  }
+  
+  .banner-image-align{
+    /* margin: 0 60px !important; */
+  }
+  
+  .body-bgcolor{
+    background-color: #e0ffff;
+  }
+  .footer-logo{
+    width: 180px;
+    height: 50px;
+    /* margin-left: 0px; */
+  }
+  .footer-icon-image{
+    width: 40px;
+    height: 40px;
+  }
+  .header-logo-align{
+       margin: 0 20px !important;
+  }
+  .banner-leftimg-align{
+    margin-top: 4rem !important;
+  }
+  .banner-right-align{
+     /* margin-left: 2rem !important; */
+     width: 100%;
+
+  }
+  .footer-socialmedia-align{
+    padding: 0px 85px 17px 0px !important;
+  }
+  .banner-left-align{
+    width: 100%;
+  }
+  
+  /* .footer-row-align{
+      padding: 25px 10px !important;
+  } */
+
+/* responsive */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .button-pre{
+    margin-left: 8rem;
+  }
+  .bottom-hr{
+    width: 19rem;
+    margin-left: 1.5rem;
+  }
+  .body-card-align{
+    padding: 0 30px;
+  }
+  .banner-leftimg-align{
+    
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  
+}
+
+  
