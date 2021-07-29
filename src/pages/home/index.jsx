@@ -24,7 +24,7 @@ const Home = () => {
     return (
         <div>
             <div className="header-bgcolor">
-                <Navbar className="mb-5" >
+                <Navbar >
                     <Container className="header-logo-align">
                         <img className="header-logo" src={logo} />
                         <Nav className="me-auto">
